@@ -1,2 +1,2 @@
-# Bayesion-Networks
-Bayesion Network Probabilities
+# Bayesian-Networks
+Bayesian Network Probabilities
